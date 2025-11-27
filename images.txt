@@ -1,1 +1,1 @@
-portainer/portainer
+sakoo123/modelscope:1.0
